@@ -19,7 +19,7 @@ public class LotteryDrawing {
 		int[] result = new int[k];
 		for (int i = 0; i < result.length; i++)
 		{
-			int r = (int) (Math.random() * n);
+			int r = (int) (Math.random() * n) ;
 			
 			result[i] = numbers[r];
 			
