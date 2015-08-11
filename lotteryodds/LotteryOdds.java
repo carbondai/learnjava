@@ -1,4 +1,4 @@
-package lotteryodds;
+//package lotteryodds;
 
 import java.util.Scanner;
 
